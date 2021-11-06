@@ -1,7 +1,7 @@
 {
   "name": "ringo-moe",
   "version": "1.0.0",
-  "description": "A Senja multipurpose discord bot",
+  "description": "A SECTION multipurpose discord bot",
   "main": "index.ts",
   "repository": "https://www.github.com/Axection/ringo-moe",
   "author": "SECTION",
