@@ -1,4 +1,7 @@
-console.log('hello');
+import consola from "consola";
+import RingoMoe from "./app/bootstrap";
 
-export { };
+consola.log("hello");
 
+const ringo = new RingoMoe(process.env.DISCORD_TOKEN ?? "");
+ringo.start();
